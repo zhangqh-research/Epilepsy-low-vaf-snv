@@ -1,9 +1,6 @@
-# Epilepsy-low-vaf-snv
 # Epilepsy low-VAF SNV analysis
 
-Source data and core analysis code accompanying the study:
-“Caller complementarity and the limits of consensus in low-VAF
-somatic SNV detection in epilepsy-associated brain lesions”.
+Source data and core analysis code accompanying the epilepsy study.
 
 The study analysed 83 paired epilepsy lesion–peripheral normal
 whole-exome sequencing datasets.
